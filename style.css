@@ -1,0 +1,62 @@
+/* 
+selector{
+    propiedad:valor;
+    propiedad:valor;
+    propiedad:valor;
+}
+*/
+body{
+    background-color: rgb(170, 233, 252);
+    
+}
+
+.animals{
+    width: 1600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    border-radius: 50px;
+
+}
+
+h3{
+    display: flex;
+    justify-content: start;
+    font-size: 60px;
+    color: #006b8b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 200px;
+}
+
+ul {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 30px;
+list-style: none;
+color: rgb(0, 141, 177);
+margin-left: 190px;
+
+}
+
+img{
+    width: 150px;
+    height: 150px;
+
+}
+
+h2{
+    display: flex;
+    justify-content: start;
+    font-size: 60px;
+    color: #006b8b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 200px;
+}
+
+.indice{
+    display: flex;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    
+}
